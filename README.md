@@ -1,4 +1,4 @@
-# Programming with Python – SoSe 2026 (B.Sc. Software Engineering)
+# Programming with C++ – SoSe 2026 (M.Sc. Software Engineering)
 
 This repository is your pair's workspace for the whole semester.
 Every weekly notebook and your final project live here.
